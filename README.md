@@ -12,14 +12,14 @@ The idea with this gitbook is to take the collaborative notes and video from the
 It's also a chance to expand on lessons learned, road map and vision for each project. 
 
 
+Live stream
 
+https://youtu.be/Hmj2QgupBKY 
+https://youtu.be/G5nKIeharuI https://youtu.be/IRm9aXB6uo4
+https://youtu.be/Sq_JtoQlSBE 
 
-## Day 1
-Live stream bit.ly/textAVLive2 
-Collaborative notes bit.ly/textAVNotes
+Day 1 Collaborative notes bit.ly/textAVNotes
 
-## Day 2 
-
-Collaborative notes http://bit.ly/textAVNotes2 
+Day 2 Collaborative notes http://bit.ly/textAVNotes2 
 
 

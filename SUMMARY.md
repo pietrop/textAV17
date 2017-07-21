@@ -22,7 +22,7 @@
 ## Remote Presentations
 
 * [Aeneas](remote-presentations/aeneas.md)
-* [Mercury // Ian ](remote-presentations/mercury-ian.md)
+* [Mercury ](remote-presentations/mercury-ian.md)
 
 ## Problem Domains
 
@@ -37,4 +37,6 @@
 
 * [YouTube for Publishers \(Europe\) at the Guardian](projects/youtube-for-publishers-europe-at-the-guardian.md)
 * [Microsoft STT & Cognitive Services ](services/microsoft-stt-and-cognitive-services.md)
+
+## Unconference Projects
 
