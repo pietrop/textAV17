@@ -8,9 +8,9 @@ It is [hosted on gitbooks](https://pietropassarelli.gitbooks.io/textav/).
 
 If you want to get involved it and want to contribute to it, you can use [gitbooks commenting features](https://www.gitbook.com/blog/features/discussions), [ change request](https://help.gitbook.com/books/what-are-change-requests.html) or just reach out at [pietro.passarelli@gmail.com](/pietro.passarelli@gmail.com)._
 
-_You can use inline comments and discussions for high level topics and considerations._
+- _You can use inline comments and discussions for high level topics and considerations._
 
-_Use change requests for grammars and typos._
+- _Use change requests for grammars and typos._
 
 ---
 
