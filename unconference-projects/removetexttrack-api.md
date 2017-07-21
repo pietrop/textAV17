@@ -1,4 +1,4 @@
-# video.removeTextTrack
+# `video.removeTextTrack`
 
 ## Background
 
