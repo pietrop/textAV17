@@ -7,7 +7,6 @@
 ## Projects
 
 * [hyperaudio](projects/hyperaudio.md)
-* [Tv Archive AI pipeline](projects/tv-archive-ai-pipeline.md)
 * [oTranscribe](projects/otranscribe.md)
 * [WebAv](projects/webav.md)
 * [PopUp Archive & Audiosear.ch](projects/popup-archive-and-audiosearch.md)
@@ -20,13 +19,19 @@
 * [BBC Dialogger](projects/bbc-dialogger.md)
 * [autoEdit](projects/autoedit.md)
 
+## Remote Presentations
+
+* [Aeneas](remote-presentations/aeneas.md)
+* [Mercury // Ian ](remote-presentations/mercury-ian.md)
+
 ## Problem Domains
 
-* [Object-based Broadcasting](problem-domains/object-based-broadcasting.md)
-* [🔪✅⬇️ \(Annotations models\) ](problem-domains/d83d-dd2a-2705-2b07-fe0f-annotations-models.md)
 * [Interactive Transcription](projects/interactive-transcription.md)
-* [From Spoken Word To Sheet Music ](projects/from-spoken-word-to-sheet-music.md)
+* [🔪✅⬇️ \(Annotations models\) ](problem-domains/d83d-dd2a-2705-2b07-fe0f-annotations-models.md)
+* [Object-based Broadcasting](problem-domains/object-based-broadcasting.md)
+* [Tv Archive AI pipeline](projects/tv-archive-ai-pipeline.md)
 * [Archives problem domain](problem-domains/archives-problem-domain.md)
+* [From Spoken Word To Sheet Music ](projects/from-spoken-word-to-sheet-music.md)
 
 ## Services
 
