@@ -45,7 +45,7 @@
 ## Unconference Projects
 
 * [TransProvenance](unconference-projects/transprovenance.md)
-  * Intro
+  * [Futures of the project](unconference-projects/transprovenance/intro.md)
 * [Transcript correction](unconference-projects/transcript-correction.md)
 * [AI Pipeline](unconference-projects/ai-pipeline.md)
 
