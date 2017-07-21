@@ -9,7 +9,6 @@
 * [hyperaudio](projects/hyperaudio.md)
 * [oTranscribe](projects/otranscribe.md)
 * [WebAv](projects/webav.md)
-* [PopUp Archive & Audiosear.ch](projects/popup-archive-and-audiosearch.md)
 * [Opened Captions service](projects/opened-captions-service.md)
 * [Opened Captions annotated articles](projects/opened-captions-annotated-articles.md)
 * [FrameTrail ](projects/frametrail.md)
@@ -35,6 +34,7 @@
 
 ## Services
 
+* [PopUp Archive & Audiosear.ch](projects/popup-archive-and-audiosearch.md)
 * [YouTube for Publishers \(Europe\) at the Guardian](projects/youtube-for-publishers-europe-at-the-guardian.md)
 * [Microsoft STT & Cognitive Services ](services/microsoft-stt-and-cognitive-services.md)
 
