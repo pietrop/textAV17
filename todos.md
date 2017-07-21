@@ -30,8 +30,8 @@ https://12starsmedia.com/video-production/embed-youtube-video-specific-start-tim
 - [x]  Add notes from Day one to projects pages
 - [x]  Add notes from Day one to projects pages in 
 - [ ] add videos for each presentation
- - [ ] if needed add custom start / end time in youtube embed 
+  - [ ] if needed add custom start / end time in youtube embed 
 - [ ] change collaborative notes to be more discorsive.
 - [ ] invite presenters to review their section.
- - [ ]  expand on lessons learned, roadmap and vision. optional.
+  - [ ]  expand on lessons learned, roadmap and vision. optional.
 - [ ] find someone to proofread contnet 
