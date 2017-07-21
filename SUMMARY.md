@@ -23,7 +23,7 @@
 * [Aeneas](remote-presentations/aeneas.md)
 * [Mercury ](remote-presentations/mercury-ian.md)
 * [Captioning Workflow](remote-presentations/captioning-workflow.md)
-* Transcription Service at the FT
+* [Transcription Service at the FT](remote-presentations/transcription-service-at-the-ft.md)
 * BBC Video Context
 
 ## Problem Domains
@@ -45,4 +45,5 @@
 
 * [TransProvenance](unconference-projects/transprovenance.md)
   * Intro
+* Transcript correction
 
