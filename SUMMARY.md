@@ -29,7 +29,7 @@
 * [🔪✅⬇️ \(Annotations models\) ](problem-domains/d83d-dd2a-2705-2b07-fe0f-annotations-models.md)
 * [Object-based Broadcasting](problem-domains/object-based-broadcasting.md)
 * [Tv Archive AI pipeline](projects/tv-archive-ai-pipeline.md)
-* [Archives problem domain](problem-domains/archives-problem-domain.md)
+* [The Problem with archives](problem-domains/archives-problem-domain.md)
 * [From Spoken Word To Sheet Music ](projects/from-spoken-word-to-sheet-music.md)
 
 ## Services
