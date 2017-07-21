@@ -23,3 +23,8 @@ Day 1 Collaborative notes bit.ly/textAVNotes
 Day 2 Collaborative notes http://bit.ly/textAVNotes2 
 
 
+
+
+Presentations divided by presenter: 
+
+https://www.youtube.com/channel/UC6cU2oc6p-II1H4ZdYbx5Tg 
