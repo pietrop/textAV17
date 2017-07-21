@@ -45,5 +45,5 @@
 
 * [TransProvenance](unconference-projects/transprovenance.md)
   * Intro
-* Transcript correction
+* [Transcript correction](unconference-projects/transcript-correction.md)
 
