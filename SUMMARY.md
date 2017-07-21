@@ -51,6 +51,7 @@
 * [Transcript correction](unconference-projects/transcript-correction.md)
   * [webaligner](unconference-projects/transcript-correction/webaligner.md)
 * [AI Pipeline](unconference-projects/ai-pipeline.md)
+  * [I learned what Tesseract can do \(and so can you!\)](unconference-projects/ai-pipeline/i-learned-what-tesseract-can-do-and-so-can-you.md)
 * [Captioning Workflow System](unconference-projects/captioning-workflow-system.md)
 * [removeTextTrack API](unconference-projects/removetexttrack-api.md)
 
