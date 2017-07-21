@@ -48,4 +48,5 @@
   * [Futures of the project](unconference-projects/transprovenance/intro.md)
 * [Transcript correction](unconference-projects/transcript-correction.md)
 * [AI Pipeline](unconference-projects/ai-pipeline.md)
+* [Captioning Workflow System](unconference-projects/captioning-workflow-system.md)
 
