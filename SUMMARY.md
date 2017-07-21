@@ -47,4 +47,5 @@
 * [TransProvenance](unconference-projects/transprovenance.md)
   * Intro
 * [Transcript correction](unconference-projects/transcript-correction.md)
+* [AI Pipeline](unconference-projects/ai-pipeline.md)
 
