@@ -21,6 +21,7 @@ Note: It was pointed out the exact segment difficult to extract out exactly, but
   * Video
     * Render a poorer quality video for the source file as well. Just because the video is a lot smaller.
     * Pop up video frame that would be easier to close / be able to toggle between the top and bottom video.
+    * What happens when.. fade? Overlapping video? Silent?
 
 # Data model
 Data model will change based on the API endpoint of the database we get our information from. For now we have a mock manifest placed in the repository.
