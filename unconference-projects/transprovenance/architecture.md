@@ -7,7 +7,7 @@
     * time (start and end of source, start and end of target URL)
     * other extra information (filmed by, title etc.)
     * captions metadata
-  * Render - Have an HLS manifest file from
+  * Render - Have an chimera HLS manifest file from the data
     * make rendering fast
 3. Output:
   * Captions
