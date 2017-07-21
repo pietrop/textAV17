@@ -51,4 +51,5 @@
 * [Transcript correction](unconference-projects/transcript-correction.md)
 * [AI Pipeline](unconference-projects/ai-pipeline.md)
 * [Captioning Workflow System](unconference-projects/captioning-workflow-system.md)
+* [removeTextTrack API](unconference-projects/removetexttrack-api.md)
 
