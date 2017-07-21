@@ -7,7 +7,8 @@
     * time (start and end of source, start and end of target URL)
     * other extra information (filmed by, title etc.)
     * captions metadata
-  * Render 
+  * Render - Have an HLS manifest file from
+    * make rendering fast
 3. Output:
   * Captions
   * Video
