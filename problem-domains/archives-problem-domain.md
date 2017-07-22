@@ -1,6 +1,8 @@
 # The Problem domain with Archives // Dave Rice, CUNY TV / Steven, Villereal University of Virginia Library
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cNrJAT26qA8" frameborder="0" allowfullscreen></iframe>
+
 
 Rice: “The archive is often an optional last step for media”
 Rice: Discuss challenges of adhering to FCC captioning regulations
