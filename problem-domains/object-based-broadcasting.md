@@ -1,8 +1,6 @@
 # Object-based Broadcasting: A Brief Overview //Chris Baume , BBC R&D
 
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Epe42APLMQM?start=2208" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Epe42APLMQM?start=2178" frameborder="0" allowfullscreen></iframe>
 
 
 http://slides.com/chrisbaume/textav-obb

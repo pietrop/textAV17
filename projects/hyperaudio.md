@@ -5,7 +5,6 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Epe42APLMQM?start=1158" frameborder="0" allowfullscreen></iframe>
 
 
-
 SLIDES: http://bit.ly/2uIlLfz
 Started off as a project for initial Mozilla festival ("Drum Beat")
 Demo: http://happyworm.com/jPlayerLab/audiotextsync/v13/
