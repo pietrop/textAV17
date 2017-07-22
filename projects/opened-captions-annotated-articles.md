@@ -1,5 +1,6 @@
 # Opened Captions annotated articles //Ryan Mark, Vox Media
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QuwQB9KrkZg" frameborder="0" allowfullscreen></iframe>
 
 
 Discusses NPRs use of Opened Captions for live journalism
