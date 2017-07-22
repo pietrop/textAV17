@@ -1,6 +1,6 @@
 # Tv Archive AI pipeline // Internet Archive, Dan Schultz
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HmuKbnBYk84" frameborder="0" allowfullscreen></iframe>
 
 SLIDES: https://docs.google.com/presentation/d/17s8tvqYY8zb4cGVk0MPi2HeA85af-x0macLn-WijAdc/edit?usp=sharing
 
