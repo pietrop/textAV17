@@ -4,6 +4,10 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/62cCMPpgfRU" frameborder="0" allowfullscreen></iframe>
 
 
+As presented at the event 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ofQyatB0t1I" frameborder="0" allowfullscreen></iframe>
+
 ### Brief description 
 This captioning workflow is an attempt to eliminate common pain points: generating a transcript, segmenting the transcript, and aligning the transcript with the audio. 
 
