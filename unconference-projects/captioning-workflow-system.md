@@ -1,4 +1,4 @@
-# Captioning workflow system
+# Captioning workflow system/app
 
 
 Captioning workflow system based on the [Captioning workflow](/remote-presentations/captioning-workflow.md) presentation by Joseph and [notes](/remote-presentations/captioning-workflow/needs-for-captioning-tool.md). 
