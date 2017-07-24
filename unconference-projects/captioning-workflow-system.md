@@ -3,6 +3,29 @@
 
 Captioning workflow system based on the [Captioning workflow](/remote-presentations/captioning-workflow.md) presentation by Joseph and [notes](/remote-presentations/captioning-workflow/needs-for-captioning-tool.md). 
 
+## R&D approach 
+
+Thought it be good to give a quick high level overview of the methodology we used to quickly prototype this. 
+
+We followed an R&D approach to size and explore the problem. 
+
+First step is to identify, learn, and understand a possible workflow. This was an unusual project in that a lot of the ground work of this was already done by Joseph's [Captioning workflow](/remote-presentations/captioning-workflow.md)
+
+But once you have the workflow figured out, then divide the it into parts. Of those parts identify the granularity of what are the components that make up that part.
+
+For those components are find out  which once you have available and to what degree you are familiar with their workings.  
+
+As well as which once you don't know.
+
+Priority  is given  to the once you don't know to verify how they work and whether they make the whole possible.
+
+Once you have all the components you look at the interfaces and the communication between that, do you need to do any conversion or adjustment eg to get the output of one as input of the other etc..  This also helps you to think about data models representations that are most suited for the overall system.
+
+
+This allows to work on parts and components in isolation and then combined them. 
+Don't leave the combining and integration experiments too late tho because sometimes they are just as important as the building blocks.
+
+Threat everything as an hypothesis and prioritise which one to test first.
 
 ## Sections
 
