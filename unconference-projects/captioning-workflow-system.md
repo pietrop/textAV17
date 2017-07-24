@@ -209,3 +209,12 @@ learning ally
 
 [https://rg3.github.io/youtube-dl/](https://rg3.github.io/youtube-dl/) 
 
+
+## Contributors
+
+- Pietro 
+- Joseph 
+- Gideon 
+- Marshall
+- Jane 
+
