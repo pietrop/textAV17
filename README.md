@@ -12,6 +12,9 @@ _If you want to get involved it and want to contribute to it, you can use [gitbo
 
 - _Use change requests for grammars and typos._
 
+
+Otherwise you can use github pull request with [the github repo `textAV17`](https://github.com/pietrop/textAV17) that syncs with this gitbook.
+
 ---
 
 [textAV.tech](http://textAV.tech) event description:
