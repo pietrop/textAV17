@@ -30,6 +30,7 @@
 
 ## Problem Domains
 
+* [Problem domain and component based design](projects/problem-domain-and-component-based-design.md)
 * [Interactive Transcription](projects/interactive-transcription.md)
 * [🔪✅⬇️ \(Annotations models\) ](problem-domains/d83d-dd2a-2705-2b07-fe0f-annotations-models.md)
 * [Object-based Broadcasting](problem-domains/object-based-broadcasting.md)
