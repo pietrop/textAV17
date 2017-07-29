@@ -7,11 +7,11 @@
 ###Links:
 
 SLIDES: http://bit.ly/2uIlLfz
-Started off as
- a project for initial Mozilla festival ("Drum Beat")
+ 
 
-###Notes:
-- Demo: http://happyworm.com/jPlayerLab/audiotextsync/v13/
+### Notes:
+- Started off as a project for initial Mozilla
+ - Demo: http://happyworm.com/jPlayerLab/audiotextsync/v13/
 - Hyperaudio in action at 
 http://www.radiolab.org/story/127390-hyper-audio-experiment/
 "As hypertext is to text, hyperaudio is to audio."
