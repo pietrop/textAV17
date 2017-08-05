@@ -12,6 +12,7 @@
 * [WebAv](projects/webav.md)
 * [Opened Captions service](projects/opened-captions-service.md)
 * [Opened Captions annotated articles](projects/opened-captions-annotated-articles.md)
+  * [presentation at SRCCON](projects/opened-captions-annotated-articles/presentation-at-srccon.md)
 * [FrameTrail ](projects/frametrail.md)
 * [Captions and TV Archives ](projects/captions-and-tv-archives.md)
 * [Extending audiogram with automated transcriptions](projects/extending-audiogram-with-automated-transcriptions.md)
