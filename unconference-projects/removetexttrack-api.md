@@ -1,4 +1,4 @@
-# `video.removeTextTrack`
+# removeTextTrack API
 
 ## Background
 
@@ -12,7 +12,7 @@ Originally, the HTML spec had a `video.removeTextTrack` method but it was remove
 
 Last year, shortly after the [Demuxed](http://demuxed.com) conference, Evol created an issue on the [HTML spec](https://github.com/whatwg/html/issues/1921) to ask whether it's time to add this method back in.
 
-The landscape as changed quite a bit since the `removeTextTrack` was removed. [Media Source Extensions (MSE)](https://en.wikipedia.org/wiki/Media_Source_Extensions) has become prevalent for playing back video on the web. Because of MSE usage, developers also need to start managing their own TextTracks so having `removeTextTrack` for programmatic removal of text tracks is important.
+The landscape as changed quite a bit since the `removeTextTrack` was removed. [Media Source Extensions \(MSE\)](https://en.wikipedia.org/wiki/Media_Source_Extensions) has become prevalent for playing back video on the web. Because of MSE usage, developers also need to start managing their own TextTracks so having `removeTextTrack` for programmatic removal of text tracks is important.
 
 ### Agreement
 
@@ -25,3 +25,4 @@ At TextAV, we wrote some failing tests for the HTMLMediaElement component and su
 ## Next Steps
 
 The immediate next step would be to update the actual spec and iron out the small details.
+

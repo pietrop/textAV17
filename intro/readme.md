@@ -20,5 +20,5 @@ The idea with this gitbook is to take the collaborative notes and video from the
 
 It's also a chance to expand on lessons learned, road map and vision for each project.
 
-Check out the [TODOS](intro/todos.md) section if you want to help with this effort.
+Check out the [TODOS](todos.md) section if you want to help with this effort.
 

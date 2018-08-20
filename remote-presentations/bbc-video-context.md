@@ -1,8 +1,8 @@
 # BBC Video Context
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2u6Wq-csLtw" frameborder="0" allowfullscreen></iframe>
+{% embed data="{\"url\":\"https://www.youtube.com/embed/2u6Wq-csLtw\",\"type\":\"video\",\"title\":\"textav videocontext matthteewshotton\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.youtube.com/yts/img/favicon\_144-vfliLAfaB.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://i.ytimg.com/vi/2u6Wq-csLtw/maxresdefault.jpg\",\"width\":1280,\"height\":720,\"aspectRatio\":0.5625},\"embed\":{\"type\":\"player\",\"url\":\"https://www.youtube.com/embed/2u6Wq-csLtw?rel=0&showinfo=0\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\\\"><iframe src=\\\"https://www.youtube.com/embed/2u6Wq-csLtw?rel=0&amp;showinfo=0\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen scrolling=\\\"no\\\"></iframe></div>\",\"aspectRatio\":1.7778}}" %}
 
+Hyperaud.io version
 
-Hyperaud.io version 
+{% embed data="{\"url\":\"http://textav.hyperaud.io/pad/viewer/?t=71UU4QwbRre\_CXfN70rnKA\",\"type\":\"link\",\"title\":\"Hyperaudio: Viewer\"}" %}
 
-<iframe src="http://textav.hyperaud.io/pad/viewer/?t=71UU4QwbRre_CXfN70rnKA" height="294" width="480" frameborder="0" scrolling="no" allowfullscreen seamless></iframe>
